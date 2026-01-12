@@ -1,0 +1,15 @@
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\bin\Debug\net7.0\Invoice.Sdk.deps.json
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\bin\Debug\net7.0\Invoice.Sdk.dll
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\bin\Debug\net7.0\Invoice.Sdk.pdb
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.csproj.AssemblyReference.cache
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.AssemblyInfoInputs.cache
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.AssemblyInfo.cs
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.dll
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\refint\Invoice.Sdk.dll
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.pdb
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\ref\Invoice.Sdk.dll
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\bin\Debug\net7.0\Invoice.Interface.dll
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\bin\Debug\net7.0\Invoice.Interface.pdb
+C:\Users\jemar\source\repos\Logista\InvoiceService\Invoice.Sdk\obj\Debug\net7.0\Invoice.Sdk.csproj.CopyComplete

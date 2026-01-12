@@ -1,0 +1,12 @@
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.csproj.AssemblyReference.cache
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.AssemblyInfoInputs.cache
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.AssemblyInfo.cs
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\bin\Debug\net7.0\Log.Interface.deps.json
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\bin\Debug\net7.0\Log.Interface.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\bin\Debug\net7.0\Log.Interface.pdb
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\refint\Log.Interface.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\Log.Interface.pdb
+C:\Users\jemar\source\repos\Logista\LogService\Log.Interface\obj\Debug\net7.0\ref\Log.Interface.dll

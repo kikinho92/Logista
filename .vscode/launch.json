@@ -1,0 +1,105 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Use IntelliSense to find out which attributes exist for C# debugging
+            // Use hover for the description of the existing attributes
+            // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+            "name": ".NET Core Launch (web)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            // If you have changed target frameworks, make sure to update the program path.
+            "program": "${workspaceFolder}/LogService/Log.Service/bin/Debug/net7.0/Log.Service.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/LogService/Log.Service",
+            "stopAtEntry": false,
+            // Enable launching a web browser when ASP.NET Core starts. For more information: https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "Service-Log",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-service-log",
+            "program": "${workspaceFolder}/LogService/Log.Service/bin/Debug/net7.0/Log.Service.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/LogService/Log.Service",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": "Service-Invoice",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-service-invoice",
+            "program": "${workspaceFolder}/InvoiceService/Invoice.Service/bin/Debug/net7.0/Invoice.Service.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/InvoiceService/Invoice.Service",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+        {
+            "name": "Service-Register",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-service-register",
+            "program": "${workspaceFolder}/RegisterService/Register.Service/bin/Debug/net7.0/Register.Service.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/RegisterService/Register.Service",
+            "stopAtEntry": false,
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/Views"
+            }
+        },
+    ],
+    "compounds": [
+        {
+            "name": "Everything",
+            "configurations": [
+                "Service-Log",
+                "Service-Invoice",
+                "Service-Register",
+            ]
+        }
+    ]
+}

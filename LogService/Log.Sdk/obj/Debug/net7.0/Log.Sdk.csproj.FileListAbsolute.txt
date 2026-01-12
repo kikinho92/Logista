@@ -1,0 +1,15 @@
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\bin\Debug\net7.0\Log.Sdk.deps.json
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\bin\Debug\net7.0\Log.Sdk.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\bin\Debug\net7.0\Log.Sdk.pdb
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.csproj.AssemblyReference.cache
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.AssemblyInfoInputs.cache
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.AssemblyInfo.cs
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.csproj.CoreCompileInputs.cache
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\refint\Log.Sdk.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.pdb
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\ref\Log.Sdk.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\bin\Debug\net7.0\Log.Interface.dll
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\bin\Debug\net7.0\Log.Interface.pdb
+C:\Users\jemar\source\repos\Logista\LogService\Log.Sdk\obj\Debug\net7.0\Log.Sdk.csproj.CopyComplete

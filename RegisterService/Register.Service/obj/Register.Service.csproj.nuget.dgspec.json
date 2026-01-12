@@ -1,0 +1,388 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Service\\Register.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj",
+        "projectName": "Invoice.Interface",
+        "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj",
+        "packagesPath": "C:\\Users\\jemar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jemar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Sdk\\Invoice.Sdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Sdk\\Invoice.Sdk.csproj",
+        "projectName": "Invoice.Sdk",
+        "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Sdk\\Invoice.Sdk.csproj",
+        "packagesPath": "C:\\Users\\jemar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Sdk\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jemar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj",
+        "projectName": "Log.Interface",
+        "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj",
+        "packagesPath": "C:\\Users\\jemar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jemar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Sdk\\Log.Sdk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Sdk\\Log.Sdk.csproj",
+        "projectName": "Log.Sdk",
+        "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Sdk\\Log.Sdk.csproj",
+        "packagesPath": "C:\\Users\\jemar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Sdk\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jemar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Interface\\Register.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Interface\\Register.Interface.csproj",
+        "projectName": "Register.Interface",
+        "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Interface\\Register.Interface.csproj",
+        "packagesPath": "C:\\Users\\jemar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jemar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Service\\Register.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Service\\Register.Service.csproj",
+        "projectName": "Register.Service",
+        "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Service\\Register.Service.csproj",
+        "packagesPath": "C:\\Users\\jemar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jemar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Interface\\Invoice.Interface.csproj"
+              },
+              "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Sdk\\Invoice.Sdk.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\InvoiceService\\Invoice.Sdk\\Invoice.Sdk.csproj"
+              },
+              "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Interface\\Log.Interface.csproj"
+              },
+              "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Sdk\\Log.Sdk.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\LogService\\Log.Sdk\\Log.Sdk.csproj"
+              },
+              "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Interface\\Register.Interface.csproj": {
+                "projectPath": "C:\\Users\\jemar\\source\\repos\\Logista\\RegisterService\\Register.Interface\\Register.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

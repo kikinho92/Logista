@@ -1,0 +1,15 @@
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\bin\Debug\net7.0\Register.Interface.deps.json
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\bin\Debug\net7.0\Register.Interface.dll
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\bin\Debug\net7.0\Register.Interface.pdb
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.csproj.AssemblyReference.cache
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.AssemblyInfoInputs.cache
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.AssemblyInfo.cs
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.dll
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\refint\Register.Interface.dll
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.pdb
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\ref\Register.Interface.dll
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\bin\Debug\net7.0\Invoice.Interface.dll
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\bin\Debug\net7.0\Invoice.Interface.pdb
+C:\Users\jemar\source\repos\Logista\RegisterService\Register.Interface\obj\Debug\net7.0\Register.Interface.csproj.CopyComplete
