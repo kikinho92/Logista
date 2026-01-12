@@ -58,6 +58,7 @@ public class InvoiceController : ControllerBase
 
                 //_notif.FireNotification(NEW_INVOICE_SOTED);
                 // Notifications should be sent by NotifService, an independence microservices, which will handle sending all notifications between services. Abstract implementation
+                // In this case, when a notification is fired, it will have an associated endpoint which will be executed (http://localhost:8003/register). 
             }
             else
             {
